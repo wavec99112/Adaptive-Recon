@@ -99,8 +99,8 @@ class CyberReconCLI:
         self.print_header()
         print(f"\n{CYAN_BRIGHT}欢迎使用自适应信息收集工具 (CyberRecon){RESET}\n")
         print(f"{WHITE}版本: 1.0.0{RESET}")
-        print(f"{WHITE}作者: 你的名字{RESET}")
-        print(f"{WHITE}GitHub: https://github.com/你的仓库{RESET}")
+        print(f"{WHITE}作者: Wave-C9{RESET}")
+        print(f"{WHITE}GitHub: https://github.com/wavec99112/Adaptive_Recon{RESET}")
         print("\n" + CYAN_BRIGHT + "-"*TERM_WIDTH + RESET)
         time.sleep(2)
 
